@@ -49,6 +49,7 @@ SoC of the battery pack on a LCD display.
 cell balancing technique in a module.
 
 **Battery Performance Parameter**
+
 SOC: The percentage of the battery’s capacity that is currently available for use.
 
 State of health (SoH): The overall health and performance of the battery, often
