@@ -32,6 +32,7 @@ functions that meet the required standards.
 
 
 **Objective**
+
 The objectives of this work were defined as follows:
 1. To study battery parameters in detail and to do detailed analysis of Battery
 Management System.
