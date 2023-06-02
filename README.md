@@ -49,12 +49,17 @@ when it is not in use.
 
 **Flowchart**
 
+
 ![image](https://github.com/atharvard/BMS/assets/98876069/1e1b7009-9b7f-4232-8ca5-22fb4e8a8f88)
 
 **Circuit Diagram**
+
+
 ![image](https://github.com/atharvard/BMS/assets/98876069/b9bc0fda-f19d-4f9f-95fa-43e270adf047)
 
 **Final Results**
+
+
 ![image](https://github.com/atharvard/BMS/assets/98876069/aafedb1d-fdd6-4793-9676-a24abac7efc1)
 
 
